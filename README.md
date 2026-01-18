@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/python-3.8+-blue.svg" alt="Python 3.8+"/>
   <img src="https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey.svg" alt="Platform"/>
   <img src="https://img.shields.io/badge/game%20maker-1.x%20%7C%202.x-green.svg" alt="Game Maker"/>
-  <img src="https://img.shields.io/badge/license-MIT-orange.svg" alt="License"/>
+  <img src="https://img.shields.io/badge/license-Unlicense-blue.svg" alt="License"/>
   <img src="https://img.shields.io/badge/GUI-tkinter-purple.svg" alt="GUI"/>
 </p>
 
